@@ -1,0 +1,2 @@
+[pytest11]
+venv = pytest_venv
